@@ -12,6 +12,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemL
 MSYH.TTC,Microsoft YaHei UI,128,96
 MSYH.TTC,Microsoft YaHei UI
 ```
+[Adaptive Contrast Settings](https://www.windowscentral.com/how-disable-adapative-contrast-surface)
+```
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0001\FeatureTestControl 
+
+9240 -> 9250
+```
+
 
 ## Software to Install
 
