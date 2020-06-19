@@ -19,6 +19,8 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e968-e325-11
 9240 -> 9250
 ```
 
+Bluetooth Pairing for Windows Ubuntu Dual System
+[Issue Resolving](https://unix.stackexchange.com/questions/402488/dual-boot-bluetooth-device-pairing)
 
 ## Software to Install
 
