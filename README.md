@@ -1,5 +1,6 @@
 # New-Windows-Config
-Configure the newly installed windows
+Configure the newly installed windows.
+Common issue resolving on Windows/Ubuntu dual system on Surface Book 2.
 
 ## System Deployment
 OneDrive Files  
